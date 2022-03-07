@@ -43,3 +43,5 @@ const _new = function (func, ...args) {
  *                   ④、call/apply改变了函数的this上下文后，马上执行该函数 fn
  *      3、fun.bind(thisArg, param1, param2, ...)  ：bind则是返回改变了上下文后的函数,不执行该函数
  */
+// 第一次提交
+// 第二次提交
